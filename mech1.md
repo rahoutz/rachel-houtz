@@ -12,5 +12,13 @@ subtitle: Supplemental material for Mechanics I
 
 - [Lecture 01](assets/notes/Lecture_1.pdf)
 
+## Activities
+
+- [Activity 1](assets/notes/Activity_1.pdf)
+
+## Activity Solutions
+
+- [Activity 1 Solution](assets/notes/Activity_1_soln.pdf)
+
 ## Problem set solutions
 
