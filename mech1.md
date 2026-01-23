@@ -14,11 +14,11 @@ subtitle: Supplemental material for Mechanics I
 
 ## Activities
 
-- [Activity 1](assets/notes/Activity_1.pdf)
+- [Activity 1](assets/notes/activity1.pdf)
 
 ## Activity Solutions
 
-- [Activity 1 Solution](assets/notes/Activity_1_soln.pdf)
+- [Activity 1 Solution](assets/notes/activity1_soln.pdf)
 
 ## Problem set solutions
 
