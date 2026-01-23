@@ -4,6 +4,10 @@ title: Mechanics I
 subtitle: Supplemental material for Mechanics I
 ---
 
+## Updated Class Schedule
+
+ - [Class Schedule](assets/notes/Lecture_1.pdf) 
+
 ## Lecture notes
 
 - [Lecture 01](assets/notes/Lecture_1.pdf)
