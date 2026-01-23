@@ -6,7 +6,7 @@ subtitle: Supplemental material for Mechanics I
 
 ## Updated Class Schedule
 
- - [Class Schedule](assets/notes/Lecture_1.pdf) 
+ - [Class Schedule](assets/Reading\ Schedule.pdf) 
 
 ## Lecture notes
 
