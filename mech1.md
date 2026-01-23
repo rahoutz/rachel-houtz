@@ -6,19 +6,19 @@ subtitle: Supplemental material for Mechanics I
 
 ## Updated Class Schedule
 
- - [Class Schedule](assets/Reading_Schedule.pdf) 
+ - [Class Schedule](assets/mech1/Reading_Schedule.pdf) 
 
 ## Lecture notes
 
-- [Lecture 01](assets/notes/Lecture_1.pdf)
+- [Lecture 01](assets/mech1/lecture_notes/Lecture_1.pdf)
 
 ## Activities
 
-- [Activity 1](assets/notes/activity1.pdf)
+- [Activity 1](assets/mech1/activities/activity1.pdf)
 
 ## Activity Solutions
 
-- [Activity 1 Solution](assets/notes/activity1_soln.pdf)
+- [Activity 1 Solution](assets/mech1/activities/activity1_soln.pdf)
 
 ## Problem set solutions
 
