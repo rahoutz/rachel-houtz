@@ -21,5 +21,9 @@ subtitle: Supplemental material for Mechanics I
 
 - [Activity 1 Solution](/assets/mech1/activities/activity1_soln.pdf)
 
+
+## Office Hour Problems
+- [OH Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
+
 ## Problem set solutions
 
