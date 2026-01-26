@@ -10,8 +10,8 @@ subtitle: Supplemental material for Mechanics I
 
 ## Lecture notes
 
-- [Lecture 01](assets/mech1/lecture_notes/Lecture_1.pdf)
-- [Lecture_03](assets/mech1/lecture_notes/Lecture_3.pdf)
+- [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
+- [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
 
 ## Activities
 
