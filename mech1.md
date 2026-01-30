@@ -12,6 +12,7 @@ subtitle: Supplementary material for Mechanics I
 
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
+- [Lecture 4](assets/mech1/lecture_notes/Lecture_4.pdf)
 
 ## Activities
 
@@ -24,6 +25,14 @@ subtitle: Supplementary material for Mechanics I
 
 ## Office Hour Problems
 - [OH Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
+
+
+## Quizzes 
+- [Quiz 1](/assets/mech1/quizzes/quiz1.pdf)
+
+## Quiz Solutions
+- [Quiz 1 Solutions](/assets/mech1/quizzes/quiz1_soln.pdf)
+
 
 ## Problem set solutions
 
