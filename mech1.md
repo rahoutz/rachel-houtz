@@ -28,7 +28,8 @@ subtitle: Supplementary material for Mechanics I
 
 
 ## Office Hour Problems
-- [OH Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
+- [OH Problems 1](/assets/mech1/office_hourrproblems/OH1.pdf)
+- [OH Problems 1](/assets/mech1/office_hourrproblems/OH2.pdf)
 
 
 ## Quizzes 
@@ -40,3 +41,4 @@ subtitle: Supplementary material for Mechanics I
 
 ## Problem set solutions
 
+- [Activity 2 Solution](/assets/mech1/hw/hw1_soln.pdf)
