@@ -41,4 +41,4 @@ subtitle: Supplementary material for Mechanics I
 
 ## Problem set solutions
 
-- [HW 1 Solutions](/assets/mech1/hw/hw1_soln.pdf)
+- [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
