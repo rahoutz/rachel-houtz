@@ -14,6 +14,7 @@ subtitle: Supplementary material for Mechanics I
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
 - [Lecture 4](assets/mech1/lecture_notes/Lecture_4.pdf)
 - [Lecture 6](assets/mech1/lecture_notes/Lecture_6.pdf)
+- [Lecture 7](assets/mech1/lecture_notes/Lecture_7.pdf)
 
 
 ## Activities
@@ -34,9 +35,11 @@ subtitle: Supplementary material for Mechanics I
 
 ## Quizzes 
 - [Quiz 1](/assets/mech1/quizzes/quiz1.pdf)
+- [Quiz 2](/assets/mech1/quizzes/quiz2.pdf)
 
 ## Quiz Solutions
 - [Quiz 1 Solutions](/assets/mech1/quizzes/quiz1_soln.pdf)
+- [Quiz 2 Solutions](/assets/mech1/quizzes/quiz2_soln.pdf)
 
 
 ## Problem set solutions
