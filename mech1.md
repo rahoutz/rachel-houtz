@@ -21,11 +21,13 @@ subtitle: Supplementary material for Mechanics I
 
 - [Activity 1](/assets/mech1/activities/activity1.pdf)
 - [Activity 2](/assets/mech1/activities/activity2.pdf)
+- [Activity 3](/assets/mech1/activities/activity3.pdf)
 
 ## Activity Solutions
 
 - [Activity 1 Solution](/assets/mech1/activities/activity1_soln.pdf)
 - [Activity 2 Solution](/assets/mech1/activities/activity2_soln.pdf)
+- [Activity 3 Solution](/assets/mech1/activities/activity3_soln.pdf)
 
 
 ## Office Hour Problems
@@ -45,3 +47,4 @@ subtitle: Supplementary material for Mechanics I
 ## Problem set solutions
 
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
+- [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
