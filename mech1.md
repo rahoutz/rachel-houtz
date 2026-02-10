@@ -52,4 +52,4 @@ subtitle: Supplementary material for Mechanics I
 
 ## Practice Exams
 
-- [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1s.pdf)
+- [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1.pdf)
