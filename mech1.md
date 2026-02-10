@@ -5,11 +5,9 @@ subtitle: Supplementary material for Mechanics I
 ---
 
 ## Updated Class Schedule
-
- - [Class Schedule](/assets/mech1/Reading_Schedule.pdf) 
+- [Class Schedule](/assets/mech1/Reading_Schedule.pdf) 
 
 ## Lecture notes
-
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
 - [Lecture 4](assets/mech1/lecture_notes/Lecture_4.pdf)
@@ -19,13 +17,12 @@ subtitle: Supplementary material for Mechanics I
 
 
 ## Activities
-
 - [Activity 1](/assets/mech1/activities/activity1.pdf)
 - [Activity 2](/assets/mech1/activities/activity2.pdf)
 - [Activity 3](/assets/mech1/activities/activity3.pdf)
 
-## Activity Solutions
 
+## Activity Solutions
 - [Activity 1 Solution](/assets/mech1/activities/activity1_soln.pdf)
 - [Activity 2 Solution](/assets/mech1/activities/activity2_soln.pdf)
 - [Activity 3 Solution](/assets/mech1/activities/activity3_soln.pdf)
@@ -41,6 +38,7 @@ subtitle: Supplementary material for Mechanics I
 - [Quiz 1](/assets/mech1/quizzes/quiz1.pdf)
 - [Quiz 2](/assets/mech1/quizzes/quiz2.pdf)
 
+
 ## Quiz Solutions
 - [Quiz 1 Solutions](/assets/mech1/quizzes/quiz1_soln.pdf)
 - [Quiz 2 Solutions](/assets/mech1/quizzes/quiz2_soln.pdf)
@@ -50,3 +48,8 @@ subtitle: Supplementary material for Mechanics I
 
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
+
+
+## Practice Exams
+
+- [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1s.pdf)
