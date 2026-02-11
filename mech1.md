@@ -37,11 +37,13 @@ subtitle: Supplementary material for Mechanics I
 ## Quizzes 
 - [Quiz 1](/assets/mech1/quizzes/quiz1.pdf)
 - [Quiz 2](/assets/mech1/quizzes/quiz2.pdf)
+- [Quiz 3](/assets/mech1/quizzes/quiz3.pdf)
 
 
 ## Quiz Solutions
 - [Quiz 1 Solutions](/assets/mech1/quizzes/quiz1_soln.pdf)
 - [Quiz 2 Solutions](/assets/mech1/quizzes/quiz2_soln.pdf)
+- [Quiz 3 Solutions](/assets/mech1/quizzes/quiz3_soln.pdf)
 
 
 ## Problem set solutions
