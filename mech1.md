@@ -7,6 +7,9 @@ subtitle: Supplementary material for Mechanics I
 ## Updated Class Schedule
 - [Class Schedule](/assets/mech1/Reading_Schedule.pdf) 
 
+## Practice Exams
+- [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1.pdf)
+
 ## Lecture notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
@@ -52,7 +55,3 @@ subtitle: Supplementary material for Mechanics I
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
 
-
-## Practice Exams
-
-- [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1.pdf)
