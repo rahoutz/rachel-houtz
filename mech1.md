@@ -9,6 +9,7 @@ subtitle: Supplementary material for Mechanics I
 
 ## Practice Exams
 - [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1.pdf)
+- [Practice Midterm 1 Solutions](/assets/mech1/exams/practice_midterm_1_soln.pdf)
 
 ## Lecture notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
