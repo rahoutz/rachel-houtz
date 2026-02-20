@@ -28,6 +28,7 @@ subtitle: Supplementary material for Mechanics I
 - [Activity 2](/assets/mech1/activities/activity2.pdf)
 - [Activity 3](/assets/mech1/activities/activity3.pdf)
 - [Activity 4](/assets/mech1/activities/activity4.pdf)
+- [Activity 5](/assets/mech1/activities/activity5.pdf)
 
 
 ## Activity Solutions
@@ -35,6 +36,7 @@ subtitle: Supplementary material for Mechanics I
 - [Activity 2 Solution](/assets/mech1/activities/activity2_soln.pdf)
 - [Activity 3 Solution](/assets/mech1/activities/activity3_soln.pdf)
 - [Activity 4 Solution](/assets/mech1/activities/activity4_soln.pdf)
+- [Activity 5 Solution](/assets/mech1/activities/activity5_soln.pdf)
 
 
 ## Quizzes 
