@@ -69,6 +69,7 @@ subtitle: Supplementary material for Mechanics I
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
 - [HW 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
+- [HW 4 Solutions](/assets/mech1/hw/hw4_solns.pdf)
 
 
 ## Office Hour Problems
