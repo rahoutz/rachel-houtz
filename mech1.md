@@ -56,6 +56,7 @@ subtitle: Supplementary material for Mechanics I
 - [Quiz 3](/assets/mech1/quizzes/quiz3.pdf)
 - [Quiz 4](/assets/mech1/quizzes/quiz4.pdf)
 - [Quiz 5](/assets/mech1/quizzes/quiz5.pdf)
+- [Quiz 6](/assets/mech1/quizzes/quiz6.pdf)
 
 
 ## Quiz Solutions
@@ -64,6 +65,7 @@ subtitle: Supplementary material for Mechanics I
 - [Quiz 3 Solutions](/assets/mech1/quizzes/quiz3_soln.pdf)
 - [Quiz 4 Solutions](/assets/mech1/quizzes/quiz4_soln.pdf)
 - [Quiz 5 Solutions](/assets/mech1/quizzes/quiz5_soln.pdf)
+- [Quiz 6 Solutions](/assets/mech1/quizzes/quiz6_soln.pdf)
 
 
 ## Problem set solutions
