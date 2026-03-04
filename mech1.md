@@ -30,6 +30,7 @@ subtitle: Supplementary material for Mechanics I
 - [Lecture 15](assets/mech1/lecture_notes/Lecture_15.pdf)
 - [Lecture 16](assets/mech1/lecture_notes/Lecture_16.pdf)
 - [Lecture 18](assets/mech1/lecture_notes/Lecture_18.pdf)
+- [Lecture 19](assets/mech1/lecture_notes/Lecture_19.pdf)
 
 
 ## Activities
