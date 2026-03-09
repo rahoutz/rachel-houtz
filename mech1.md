@@ -77,6 +77,7 @@ r [Activity 7](/assets/mech1/activities/activity7.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
 - [HW 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
 - [HW 4 Solutions](/assets/mech1/hw/hw4_solns.pdf)
+- [HW 5 Solutions](/assets/mech1/hw/hw5_solns.pdf)
 
 
 ## Office Hour Problems
