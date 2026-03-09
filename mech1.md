@@ -41,7 +41,7 @@ subtitle: Supplementary material for Mechanics I
 - [Activity 4](/assets/mech1/activities/activity4.pdf)
 - [Activity 5](/assets/mech1/activities/activity5.pdf)
 - [Activity 6](/assets/mech1/activities/activity6.pdf)
-r [Activity 7](/assets/mech1/activities/activity7.pdf)
+- [Activity 7](/assets/mech1/activities/activity7.pdf)
 
 
 ## Activity Solutions
