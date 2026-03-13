@@ -89,3 +89,5 @@ subtitle: Supplementary material for Mechanics I
 - [OH Problems 3](/assets/mech1/office_hour_problems/OH3.pdf)
 - [OH Problems 4](/assets/mech1/office_hour_problems/OH4.pdf)
 - [OH Problems 5](/assets/mech1/office_hour_problems/OH5.pdf)
+- [OH Problems 6](/assets/mech1/office_hour_problems/OH6.pdf)
+- [OH Problems 7](/assets/mech1/office_hour_problems/OH7.pdf)
