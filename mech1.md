@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Classical Mechanics 
-subtitle: Supplementary material
+title: Classical Mechanics Notes 
+subtitle: These are informal pedagogical notes and worked examples for general educational use. Official course materials for any University of Florida class are distributed through approved university platforms.
 ---
 
-## Updated Class Schedule
-- [Class Schedule](/assets/mech1/Reading_Schedule.pdf) 
 
 ## Exams
 - [Midterm 1](/assets/mech1/exams/midterm_1.pdf)
@@ -17,7 +15,7 @@ subtitle: Supplementary material
 - [Practice Midterm 1](/assets/mech1/exams/practice_midterm_1.pdf)
 - [Practice Midterm 1 Solutions](/assets/mech1/exams/practice_midterm_1_soln.pdf)
 
-## Lecture notes
+## Reuseable Lecture Notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
 - [Lecture 4](assets/mech1/lecture_notes/Lecture_4.pdf)
@@ -35,7 +33,7 @@ subtitle: Supplementary material
 - [Lecture 22](assets/mech1/lecture_notes/Lecture_22.pdf)
 
 
-## Activities
+## Practice Activities
 - [Activity 1](/assets/mech1/activities/activity1.pdf)
 - [Activity 2](/assets/mech1/activities/activity2.pdf)
 - [Activity 3](/assets/mech1/activities/activity3.pdf)
@@ -46,7 +44,7 @@ subtitle: Supplementary material
 - [Activity 8](/assets/mech1/activities/activity8.pdf)
 
 
-## Activity Solutions
+## Worked Activity Solutions
 - [Activity 1 Solution](/assets/mech1/activities/activity1_soln.pdf)
 - [Activity 2 Solution](/assets/mech1/activities/activity2_soln.pdf)
 - [Activity 3 Solution](/assets/mech1/activities/activity3_soln.pdf)
@@ -57,7 +55,7 @@ subtitle: Supplementary material
 - [Activity 8 Solution](/assets/mech1/activities/activity8_soln.pdf)
 
 
-## Quizzes 
+## Practice Quizzes 
 - [Quiz 1](/assets/mech1/quizzes/quiz1.pdf)
 - [Quiz 2](/assets/mech1/quizzes/quiz2.pdf)
 - [Quiz 3](/assets/mech1/quizzes/quiz3.pdf)
@@ -67,7 +65,7 @@ subtitle: Supplementary material
 - [Quiz 7](/assets/mech1/quizzes/quiz7.pdf)
 
 
-## Quiz Solutions
+## Practice Quiz Solutions
 - [Quiz 1 Solutions](/assets/mech1/quizzes/quiz1_soln.pdf)
 - [Quiz 2 Solutions](/assets/mech1/quizzes/quiz2_soln.pdf)
 - [Quiz 3 Solutions](/assets/mech1/quizzes/quiz3_soln.pdf)
@@ -77,7 +75,7 @@ subtitle: Supplementary material
 - [Quiz 7 Solutions](/assets/mech1/quizzes/quiz7_soln.pdf)
 
 
-## Problem set solutions
+## Selected problem solutions
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
 - [HW 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
@@ -85,7 +83,7 @@ subtitle: Supplementary material
 - [HW 5 Solutions](/assets/mech1/hw/hw5_solns.pdf)
 
 
-## Office Hour Problems
+## Additional Problems
 - [OH Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
 - [OH Problems 2](/assets/mech1/office_hour_problems/OH2.pdf)
 - [OH Problems 3](/assets/mech1/office_hour_problems/OH3.pdf)
