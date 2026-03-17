@@ -5,7 +5,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 ---
 
 
-## Exams
+## Sample Assessments
 - [Midterm 1](/assets/mech1/exams/midterm_1.pdf)
 - [Midterm 1 Solutions](/assets/mech1/exams/midterm_1_soln.pdf)
 - [Midterm 1 Rubric](/assets/mech1/exams/midterm_1_rubric.pdf)
