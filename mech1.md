@@ -8,7 +8,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 ## Sample Assessments
 - [Midterm 1](/assets/mech1/exams/midterm_1.pdf)
 - [Midterm 1 Solutions](/assets/mech1/exams/midterm_1_soln.pdf)
-- [Midterm 1 Rubric](/assets/mech1/exams/midterm_1_rubric.pdf)
+- [Midterm 1 Scoring Guide and Sample Performance](/assets/mech1/exams/midterm_1_rubric.pdf)
 
 
 ## Practice Exams
@@ -76,18 +76,18 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 
 
 ## Selected solutions to problems from Taylor
-- [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
-- [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
-- [HW 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
-- [HW 4 Solutions](/assets/mech1/hw/hw4_solns.pdf)
-- [HW 5 Solutions](/assets/mech1/hw/hw5_solns.pdf)
+- [Problem Set 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
+- [Problem Set 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
+- [Problem Set 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
+- [Problem Set 4 Solutions](/assets/mech1/hw/hw4_solns.pdf)
+- [Problem Set 5 Solutions](/assets/mech1/hw/hw5_solns.pdf)
 
 
-## Additional Problems
-- [OH Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
-- [OH Problems 2](/assets/mech1/office_hour_problems/OH2.pdf)
-- [OH Problems 3](/assets/mech1/office_hour_problems/OH3.pdf)
-- [OH Problems 4](/assets/mech1/office_hour_problems/OH4.pdf)
-- [OH Problems 5](/assets/mech1/office_hour_problems/OH5.pdf)
-- [OH Problems 6](/assets/mech1/office_hour_problems/OH6.pdf)
-- [OH Problems 7](/assets/mech1/office_hour_problems/OH7.pdf)
+## Additional Drills
+- [Drill Problems 1](/assets/mech1/office_hour_problems/OH1.pdf)
+- [Drill Problems 2](/assets/mech1/office_hour_problems/OH2.pdf)
+- [Drill Problems 3](/assets/mech1/office_hour_problems/OH3.pdf)
+- [Drill Problems 4](/assets/mech1/office_hour_problems/OH4.pdf)
+- [Drill Problems 5](/assets/mech1/office_hour_problems/OH5.pdf)
+- [Drill Problems 6](/assets/mech1/office_hour_problems/OH6.pdf)
+- [Drill Problems 7](/assets/mech1/office_hour_problems/OH7.pdf)
