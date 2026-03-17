@@ -75,7 +75,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 7 Solutions](/assets/mech1/quizzes/quiz7_soln.pdf)
 
 
-## Selected problem solutions
+## Selected solutions to problems from Taylor
 - [HW 1 Solutions](/assets/mech1/hw/hw1_solns.pdf)
 - [HW 2 Solutions](/assets/mech1/hw/hw2_solns.pdf)
 - [HW 3 Solutions](/assets/mech1/hw/hw3_solns.pdf)
