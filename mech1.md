@@ -8,7 +8,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 ## Sample Assessments
 - [Midterm 1](/assets/mech1/exams/midterm_1.pdf)
 - [Midterm 1 Solutions](/assets/mech1/exams/midterm_1_soln.pdf)
-- [Midterm 1 Scoring Guide and Sample Performance](/assets/mech1/exams/midterm_1_rubric.pdf)
+- [Midterm 1 Scoring Guide and Aggregate Performance Summary](/assets/mech1/exams/midterm_1_rubric.pdf)
 
 
 ## Practice Exams
