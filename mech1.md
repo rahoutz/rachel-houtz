@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mechanics I 
-subtitle: Supplementary material for Mechanics I
+title: Classical Mechanics 
+subtitle: Supplementary material
 ---
 
 ## Updated Class Schedule
