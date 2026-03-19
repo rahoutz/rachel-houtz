@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Classical Mechanics Notes 
-subtitle: These are informal pedagogical notes and worked examples for general educational use. Official course materials for any University of Florida class are distributed through approved university platforms. Accessible versions of these materials can be provided upon request.
+subtitle: These are informal pedagogical notes and worked examples for general educational use. Official course materials for any University of Florida class are distributed through approved university platforms. If you require an accessible version of any material posted here, please contact me and I will do my best to provide one.
+
 ---
 
 
