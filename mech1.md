@@ -46,6 +46,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Activity 6](/assets/mech1/activities/activity6.pdf)
 - [Activity 7](/assets/mech1/activities/activity7.pdf)
 - [Activity 8](/assets/mech1/activities/activity8.pdf)
+- [Activity 9](/assets/mech1/activities/activity9.pdf)
 
 
 ## Worked Activity Solutions
@@ -57,6 +58,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Activity 6 Solution](/assets/mech1/activities/activity6_soln.pdf)
 - [Activity 7 Solution](/assets/mech1/activities/activity7_soln.pdf)
 - [Activity 8 Solution](/assets/mech1/activities/activity8_soln.pdf)
+- [Activity 9 Solution](/assets/mech1/activities/activity9_soln.pdf)
 
 
 ## Practice Quizzes 
@@ -67,6 +69,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 5](/assets/mech1/quizzes/quiz5.pdf)
 - [Quiz 6](/assets/mech1/quizzes/quiz6.pdf)
 - [Quiz 7](/assets/mech1/quizzes/quiz7.pdf)
+- [Quiz 8](/assets/mech1/quizzes/quiz8.pdf)
 
 
 ## Practice Quiz Solutions
@@ -77,6 +80,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 5 Solutions](/assets/mech1/quizzes/quiz5_soln.pdf)
 - [Quiz 6 Solutions](/assets/mech1/quizzes/quiz6_soln.pdf)
 - [Quiz 7 Solutions](/assets/mech1/quizzes/quiz7_soln.pdf)
+- [Quiz 8 Solutions](/assets/mech1/quizzes/quiz8_soln.pdf)
 
 
 ## Selected solutions to problems from Taylor
