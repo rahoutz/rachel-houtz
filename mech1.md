@@ -91,6 +91,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Problem Set 4 Solutions](/assets/mech1/hw/hw4_solns.pdf)
 - [Problem Set 5 Solutions](/assets/mech1/hw/hw5_solns.pdf)
 - [Problem Set 6 Solutions](/assets/mech1/hw/hw6_solns.pdf)
+- [Problem Set 7 Solutions](/assets/mech1/hw/hw7_solns.pdf)
 
 
 ## Additional Drills
