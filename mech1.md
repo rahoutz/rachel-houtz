@@ -37,6 +37,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Lecture 24](assets/mech1/lecture_notes/Lecture_24.pdf)
 - [Lecture 25](assets/mech1/lecture_notes/Lecture_25.pdf)
 - [Lecture 27](assets/mech1/lecture_notes/Lecture_27.pdf)
+- [Lecture 28](assets/mech1/lecture_notes/Lecture_28.pdf)
 
 
 ## Practice Activities
@@ -72,6 +73,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 6](/assets/mech1/quizzes/quiz6.pdf)
 - [Quiz 7](/assets/mech1/quizzes/quiz7.pdf)
 - [Quiz 8](/assets/mech1/quizzes/quiz8.pdf)
+- [Quiz 9](/assets/mech1/quizzes/quiz9.pdf)
 
 
 ## Practice Quiz Solutions
@@ -83,6 +85,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 6 Solutions](/assets/mech1/quizzes/quiz6_soln.pdf)
 - [Quiz 7 Solutions](/assets/mech1/quizzes/quiz7_soln.pdf)
 - [Quiz 8 Solutions](/assets/mech1/quizzes/quiz8_soln.pdf)
+- [Quiz 9 Solutions](/assets/mech1/quizzes/quiz9_soln.pdf)
 
 
 ## Selected solutions to problems from Taylor
@@ -104,3 +107,4 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Drill Problems 6](/assets/mech1/office_hour_problems/OH6.pdf)
 - [Drill Problems 7](/assets/mech1/office_hour_problems/OH7.pdf)
 - [Drill Problems 8](/assets/mech1/office_hour_problems/OH8.pdf)
+- [Drill Problems 9](/assets/mech1/office_hour_problems/OH9.pdf)
