@@ -50,6 +50,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Activity 7](/assets/mech1/activities/activity7.pdf)
 - [Activity 8](/assets/mech1/activities/activity8.pdf)
 - [Activity 9](/assets/mech1/activities/activity9.pdf)
+- [Activity 10](/assets/mech1/activities/activity10.pdf)
 
 
 ## Worked Activity Solutions
@@ -62,6 +63,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Activity 7 Solution](/assets/mech1/activities/activity7_soln.pdf)
 - [Activity 8 Solution](/assets/mech1/activities/activity8_soln.pdf)
 - [Activity 9 Solution](/assets/mech1/activities/activity9_soln.pdf)
+- [Activity 10 Partial Solution](/assets/mech1/activities/activity10_partial_soln.pdf)
 
 
 ## Practice Quizzes 
