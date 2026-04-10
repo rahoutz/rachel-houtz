@@ -41,6 +41,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Lecture 27](assets/mech1/lecture_notes/Lecture_27.pdf)
 - [Lecture 28](assets/mech1/lecture_notes/Lecture_28.pdf)
 - [Lecture 30](assets/mech1/lecture_notes/Lecture_30.pdf)
+- [Lecture 31](assets/mech1/lecture_notes/Lecture_31.pdf)
 
 
 ## Practice Activities
