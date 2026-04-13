@@ -81,6 +81,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 7](/assets/mech1/quizzes/quiz7.pdf)
 - [Quiz 8](/assets/mech1/quizzes/quiz8.pdf)
 - [Quiz 9](/assets/mech1/quizzes/quiz9.pdf)
+- [Quiz 10](/assets/mech1/quizzes/quiz10.pdf)
 
 
 ## Practice Quiz Solutions
@@ -93,6 +94,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Quiz 7 Solutions](/assets/mech1/quizzes/quiz7_soln.pdf)
 - [Quiz 8 Solutions](/assets/mech1/quizzes/quiz8_soln.pdf)
 - [Quiz 9 Solutions](/assets/mech1/quizzes/quiz9_soln.pdf)
+- [Quiz 10 Solutions](/assets/mech1/quizzes/quiz10_soln.pdf)
 
 
 ## Selected solutions to problems from Taylor
