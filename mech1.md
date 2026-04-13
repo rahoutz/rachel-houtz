@@ -12,7 +12,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Sample Midterm 1 Scoring Guide and Aggregate Performance Summary](/assets/mech1/exams/midterm_1_rubric.pdf)
 - [Sample Midterm 2](/assets/mech1/exams/midterm_2.pdf)
 - [Sample Midterm 2 Solutions](/assets/mech1/exams/midterm_2_soln.pdf)
-- [Sample Midterm 2 Scoring Guide and Aggregate Performance Summary](/assets/mech2/exams/midterm_2_rubric.pdf)
+- [Sample Midterm 2 Scoring Guide and Aggregate Performance Summary](/assets/mech1/exams/midterm_2_rubric.pdf)
 
 
 ## Practice Exams
