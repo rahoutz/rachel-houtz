@@ -122,3 +122,5 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Drill Problems 7](/assets/mech1/office_hour_problems/OH7.pdf)
 - [Drill Problems 8](/assets/mech1/office_hour_problems/OH8.pdf)
 - [Drill Problems 9](/assets/mech1/office_hour_problems/OH9.pdf)
+- [Drill Problems 10](/assets/mech1/office_hour_problems/OH10.pdf)
+- [Drill Problems 11](/assets/mech1/office_hour_problems/OH11.pdf)
