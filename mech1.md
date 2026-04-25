@@ -21,6 +21,7 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Practice Midterm 2](/assets/mech1/exams/practice_midterm_2.pdf)
 - [Practice Midterm 2 Solutions](/assets/mech1/exams/practice_midterm_2_soln.pdf)
 - [Practice Final Exam](/assets/mech1/exams/practice_final.pdf)
+- [Practice Final Exam Solutions](/assets/mech1/exams/practice_final_soln.pdf)
 
 ## Core Topic Notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
