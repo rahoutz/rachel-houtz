@@ -26,7 +26,6 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 
 ## Final Review
 - [Review Session Notes](/assets/mech1/review/Review_session.pdf)
-- test
 
 ## Core Topic Notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
