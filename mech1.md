@@ -23,6 +23,11 @@ subtitle: These are informal pedagogical notes and worked examples for general e
 - [Practice Final Exam](/assets/mech1/exams/practice_final.pdf)
 - [Practice Final Exam Solutions](/assets/mech1/exams/practice_final_soln.pdf)
 
+
+## Final Review
+- [Review Session Notes](/assets/mech1/review/review_session.pdf)
+
+
 ## Core Topic Notes
 - [Lecture 1](assets/mech1/lecture_notes/Lecture_1.pdf)
 - [Lecture 3](assets/mech1/lecture_notes/Lecture_3.pdf)
